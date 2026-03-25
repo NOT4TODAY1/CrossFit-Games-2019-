@@ -21,6 +21,7 @@ def index():
     """Serve the main dashboard HTML page"""
     return send_from_directory('.', 'index.html')
 
+<<<<<<< HEAD
 @app.route('/coach-dashboard.html')
 def coach_dashboard():
     """Serve the coach dashboard HTML page"""
@@ -31,6 +32,8 @@ def organisateur_dashboard():
     """Serve the organisateur dashboard HTML page"""
     return send_from_directory('.', 'organisateur-dashboard.html')
 
+=======
+>>>>>>> c7a5d7b416be600ca2ecae4099de2cb42cf41268
 # Health check endpoint
 @app.route('/health', methods=['GET'])
 def health():
