@@ -18,7 +18,7 @@ This project is a comprehensive Power BI analysis and prediction dashboard for t
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/NOT4TODAY1/CrossFit-Games-2019->
    cd CrossFit-Games-2019--main
    ```
 
