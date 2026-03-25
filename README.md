@@ -2,6 +2,8 @@
 
 ## Description
 
+![CrossFit Games 2019](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2019_CrossFit_Games_Logo.svg/1280px-2019_CrossFit_Games_Logo.svg.png)
+
 This project is a comprehensive Power BI analysis and prediction dashboard for the CrossFit Games 2019. It combines interactive data visualizations in Power BI with a machine learning model for athlete performance prediction, delivered through a Flask web application. The project includes dashboards for coaches and organizers, along with Jupyter notebooks for model training and Power BI project development.
 
 ## Features
